@@ -14,6 +14,7 @@
     "cors": "^2.8.3",
     "express": "^4.15.3",
     "file-stream-rotator": "0.0.7",
+    "lodash": "^4.17.4",
     "morgan": "^1.8.2",
     "request": "^2.81.0",
     "request-promise": "^4.2.1",
