@@ -2,3 +2,4 @@ node_modules
 caches
 logs
 build
+npm-debug.log
