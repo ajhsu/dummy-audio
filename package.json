@@ -8,7 +8,8 @@
     "start": "pm2 update && pm2 start ecosystem.config.js",
     "stop": "pm2 delete ecosystem.config.js",
     "log": "pm2 logs 'dummy-audio'",
-    "test": "jest"
+    "test": "jest",
+    "test:watch": "jest --watch"
   },
   "author": "AJ Hsu",
   "license": "MIT",
